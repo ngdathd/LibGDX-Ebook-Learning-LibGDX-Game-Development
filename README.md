@@ -1,7 +1,7 @@
 
 # Learning LibGDX Game Development - Second Edition
 
-This is the code repository for [Learning LibGDX Game Development- Second Edition](https://www.packtpub.com/game-development/learning-libgdx-game-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781783554775), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Learning LibGDX Game Development - Second Edition](https://www.packtpub.com/game-development/learning-libgdx-game-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781783554775), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with Chapter followed by Chapter Number. For Example, Chapter 2. The Chapter 1 not contains any code it's for setting up the system environment. 
